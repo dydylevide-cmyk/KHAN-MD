@@ -1,8 +1,8 @@
 module.exports = {
-  SESSION_ID: "",  // add session Id 
+  SESSION_ID: "IK~H4sIAAAAAAAAA5VVy46jRhT9lai2tsY8jAFLLQ0P87CNDX7jaBZlKHBhXobCNh55lXV26Swi9Q/kF/JT/QkR7unuWUxGHTYUl+LWueece/kK0gyXaIRq0P8K8gKfIEHNktQ5An0gV0GACtAGPiQQ9IGiVSM61WW0T0niHZJ91dU2dJ2KJJ1eFF5pZbwSyqdytRQewK0N8moXY+8nCfnObBRYfHfCCkZwieB+I03kanCyu2cuGEdwJbaoakSRUTR4ALcmI8QFTsNBvkcJKmA8QrUNcfEx+L1hNQ0vq6B7TmHrJA/UdS2n6nLrmWsjqi3LPWraWYfH3cb9GHxNHFbylfK4/dCteWXVcenL4Dg+DpwY91peIUepOkgOY08LX+CXOEyRb/ooJZjUH+Zd173Y3lOJ54z9dD6JbTqUF3RMHVxhZyx5Vhh2lC3FiSXlfAz4Npn5ZHpaLY71JWa1aL+5ruIJjMzqyg1Ua+2m7t5IOqy6cr8HbhevXjn8H97rcVccH6fLqzeQ3RVdS4E5220utFmOkgIP9vVYG3EG4S/0B3l3xy7qWC3EDFTNpbvsCW2nEiUuHWnNVt0OZm1dWNHjeqE67/AhqYqfobx4Yiv2q63A7Wwdy9h3PJvfDOd6z6+CuutE5ysjpjajc0RObdOYTFRTnOodyfE7rjY8W9Qw2KyurWl0gOo2t4wWreLw4V7RAdWmD/r0rQ0KFOKSFJDgLG1iDNdtA+if5sgrELnTC45ay1fEE70chyzqkuFEVB1v5h75Q3k6OspFMCwmwppyYakH0AZ5kXmoLJFv4JJkRW2hsoQhKkH/1y9tkKILeRGuOU6g2TYIcFGSZVrlcQb9V1nf3kLPy6qUzOvUU5oFKkCfeg8jQnAalg2TVQoLb49PSNlDUoJ+AOMSvdWICuSDPikq9Na3SuY31NO2bUnziQLaILlLgn3QBxwlsgzFCCLP9oXP5adzkxTm+acUEdAGKWz2guenP/55fnr8+/X+y/PT42/PT49/Novfn58e/3p+enxsAqAN4ntipkuxHEsJNCUKbK8vfG7Ct7eKGgA+IhDHZTPjrGOHJwdlMEwYQTjruuSFkhJK4J2BVzO9iGVGxsRrqXrMjLeGv0zj6dklHc/kUtfcHdZMAlWn14NxtjYffpCk6cadKlpRUW+EzJCDy6rcTHeMtjYmQi8TzjXPB2PdO1enMV5UPpoth+owhFw+cKdwzq2PkkNltCzC2sr1zSHY1Fdkqer5oTnNRyfsoe8PU7Chz3Z2bwEFZx+t9lS8osx5uTXONI62tbAINcsJKKvaHDmqtZ138rVfpao8lzqzeMysDGc9uhjyGTOsqFFpKzhM3Uh6sfm9zeJv4w3fDdho2zwGGN2nxTcVfyjJK9zGidSt/d2X36bOf3SuPDcv140dXnIfMzN2NeQWpT4OWGW6ZRSd00iehNS0SnKoYXC7fWmDPIYkyIoE9EGZ7CBogyKrGlubaZD97AcohaYUhvOm2BiWRHpvlQVOUElgkoM+zfO0IPCsILzssossN2C5B33AhvZyeGh8X0t5PieQvLYekJpLXyzB7V92ixYWlwcAAA==",  // add session Id 
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Asia/Karachi" // put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "america/Haiti" // put your country timeZone....leave blank if u don't know.
 };
 
